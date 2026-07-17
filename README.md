@@ -95,34 +95,13 @@ flutter run
 ## Screenshots
 
 ### Home Screen
+<img width="1298" height="880" alt="image" src="https://github.com/user-attachments/assets/5bbd0429-c8af-4ded-af67-c738b1a35d79" />
 
-> Add a screenshot here after uploading it to an `images` folder.
-
-```text
-images/home_screen.png
-```
 
 ### Chess Board
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/53bffc0d-b713-4d11-bcd0-6ce17baff647" />
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/d4c743b6-8647-4069-8a22-8dbade870b11" />
 
-> Add a screenshot here after uploading it to an `images` folder.
-
-```text
-images/chess_board.png
-```
-
-After adding the screenshots, replace this section with:
-
-```markdown
-### Home Screen
-
-![Home Screen](images/home_screen.png)
-
-### Chess Board
-
-![Chess Board](images/chess_board.png)
-```
-
----
 
 ## Learning Outcomes
 
