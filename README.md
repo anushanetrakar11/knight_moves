@@ -69,7 +69,7 @@ knight_moves/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/knight_moves.git
+git clone https://github.com/anushanetrakar11/knight_moves.git
 ```
 
 ### Navigate to the Project
